@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "https://github.com/codesith/raspberry-morse-code-led.git"
+    "type"  : "git",
+    "url"   : "https://github.com/codesith/raspberry-morse-code-led.git"
   },
   "keywords": [
     "node",
@@ -23,6 +23,9 @@
   },
   "homepage": "https://github.com/codesith/raspberry-morse-code-led",
   "devDependencies": {
-    "config" : "~1.17.1"
+    "config"  : "~1.17.1",
+    "sleep"   : "~3.0.0",
+    "onoff"   : "~1.0.3"
+
   }
 }
