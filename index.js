@@ -6,7 +6,6 @@ var sleep = require('sleep');
 var unit = config.get('unitMilliSeconds')*1000; // convert from millisecond to microsecond
 var morseCode = config.get('morseCode');
 var pin = config.get('pin');
-console.log("unit duration: %d microseconds.", unit);
 var consoleOnly = config.get('consoleOnly'); // use this to debug without actually LED
 
 var led = null;
