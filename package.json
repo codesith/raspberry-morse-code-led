@@ -1,0 +1,28 @@
+{
+  "name": "raspberry-morse-code-led",
+  "version": "1.0.0",
+  "description": "Raspberry PI LED Morse Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codesith/raspberry-morse-code-led.git"
+  },
+  "keywords": [
+    "node",
+    "raspberry",
+    "morse code",
+    "led"
+  ],
+  "author": "John Xiao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codesith/raspberry-morse-code-led/issues"
+  },
+  "homepage": "https://github.com/codesith/raspberry-morse-code-led",
+  "devDependencies": {
+    "config" : "~1.17.1"
+  }
+}
