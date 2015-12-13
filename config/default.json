@@ -1,6 +1,6 @@
 {
   "consoleOnly" : false,
-  "unitMilliSeconds" : 100,
+  "unitMilliSeconds" : 150,
   "pin" : 17,
   "morseCode" : {
     "a" : "._-",
